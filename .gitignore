@@ -1,0 +1,7 @@
+-myvenv
+Bert/tf_model.h5
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints
+logs/
